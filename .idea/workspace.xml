@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ade7eab-48b5-4154-bb04-37036c6cf6e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/gui/public/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/public/static/js/mixitup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/public/static/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/blogcard/BlogCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/blogcard/_blogcard.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/button/Button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/button/_button.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/header/SecondHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/header/_header.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/heading/Heading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/heading/_heading.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/projectcard/ProjectCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/projectcard/_projectcard.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/socialmedia/SocialMedia.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/components/socialmedia/_socialmedia.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/blogs/BlogList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/Homepage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/about/About.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/about/_about.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/banner/Banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/banner/_banner.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/blog/Blog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/blog/_blog.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/contact/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/footer/_footer.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/project/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/project/_project.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/quote/Quote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/quote/_quote.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/service/Service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/service/_service.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/pages/testimonial/Testimonial.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/containers/projects/ProjectList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/less/App.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/less/animation.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/less/responsive.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/gui/src/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/gui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/gui/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/gui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/gui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/gui/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/gui/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/gui/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/gui/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/gui/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/gui/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/gui/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/gui/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/gui/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/gui" />
+  </component>
+  <component name="ProjectId" id="1PjUwo7wu35PugiSbjSjXx9oyDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/src/project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/src/project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/gui/src/less" />
+      <recent name="$PROJECT_DIR$/frontend/gui/src/containers/pages/landing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.backend">
+    <configuration name="backend" type="Python.DjangoServer" factoryName="Django server">
+      <module name="portfolio" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="portfolio.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/backend/env/bin/python3.6" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="127.0.0.1" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Frontend" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/frontend/gui/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.backend" />
+      <item itemvalue="npm.Frontend" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ade7eab-48b5-4154-bb04-37036c6cf6e4" name="Default Changelist" comment="" />
+      <created>1566387239919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566387239919</updated>
+      <workItem from="1566387245215" duration="9100000" />
+      <workItem from="1566397659233" duration="16159000" />
+      <workItem from="1566451385852" duration="7185000" />
+      <workItem from="1566458671174" duration="2572000" />
+      <workItem from="1567510374363" duration="3305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

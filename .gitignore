@@ -1,0 +1,5 @@
+backend/env
+backend/src/portfolio/settings.py
+backend/src/db.sqlite3
+frontend/gui/node_modules
+
